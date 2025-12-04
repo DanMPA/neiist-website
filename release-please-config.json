@@ -1,9 +1,5 @@
 {
   "release-type": "node",
   "packages": {
-    ".": {
-      "package-name": "neiist-website",
-      "changelog-path": "CHANGELOG.md"
-    }
-  }
+  ".": "1.5.1" }
 }
