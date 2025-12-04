@@ -20,3 +20,4 @@ jobs:
           release-type: node
           default-branch: main
           changelog-path: CHANGELOG.md
+          config-file: release-please-config.json
