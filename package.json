@@ -1,7 +1,7 @@
 {
   "name": "neiist",
   "package-name": "neiist-website",
-  "version": "1.5.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "setup": "chmod +x ./scripts/setup.sh && ./scripts/setup.sh",
