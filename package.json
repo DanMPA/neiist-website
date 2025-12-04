@@ -1,5 +1,6 @@
 {
   "name": "neiist",
+  "package-name": "neiist-website",
   "version": "1.5.1",
   "private": true,
   "scripts": {
